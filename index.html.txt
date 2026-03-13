@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Kanha Pure Veg Restaurant</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<h1>Kanha Pure Veg Multi-Cuisine Restaurant</h1>
+
+<p>Authentic Pure Vegetarian Dining in Dombivli</p>
+
+<h2>Popular Dishes</h2>
+
+<ul>
+<li>Veg Tikki</li>
+<li>Chilli Garlic Noodles</li>
+<li>Mushroom Balls</li>
+<li>Veg Manchow Soup</li>
+</ul>
+
+<h2>Visit Us</h2>
+
+<p>
+Desai Naka, Kalyan-Shilphata Rd<br>
+Opp. Jivdani Hospital<br>
+Dombivli, Thane
+</p>
+
+<p>Phone: 07900072900</p>
+
+<script src="script.js"></script>
+
+</body>
+</html>
